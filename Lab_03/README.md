@@ -27,10 +27,9 @@ In this lab we apply Exploratory Data Analysis (EDA) to a flower shop sales data
 ```
 Lab_03/
 ├── README.md
+├── Lab03_Assignment.ipynb
 ├── data/
 │   └── flowershopdata.csv
-└── src/
-    └── Lab03_Assignment.ipynb
 ```
 
 ## How to run
