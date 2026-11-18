@@ -29,7 +29,7 @@ Lab_03/
 ├── README.md
 ├── Lab03_Assignment.ipynb
 ├── data/
-│   └── flowershopdata.csv
+      └── flowershopdata.csv
 ```
 
 ## How to run
