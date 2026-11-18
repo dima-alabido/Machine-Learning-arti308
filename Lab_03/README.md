@@ -9,7 +9,7 @@ In this lab we apply Exploratory Data Analysis (EDA) to a flower shop sales data
 - **File:** `data/flowershopdata.csv`
 - **Content:** sales records of a flower shop during 2016. Each row is one flower sale.
 - **Size:** 106 rows and 11 columns in the original file; 49 rows and 8 columns after cleaning.
-- **Source:** *(add the dataset source / link here)*
+- **Source:** *[(add the dataset source / link here)](https://www.kaggle.com/datasets/alimodd/flower-shop-dataset)*
 
 | Column | Description |
 |---|---|
